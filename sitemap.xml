@@ -3,18 +3,178 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fbailly.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/upcoming-workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</loc>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://fbailly.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://fbailly.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/upcoming-full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/upcoming-optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/upcoming-workshop-software-tools-for-biomechanics/</loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication-type/2/</loc>
+    <lastmod>2020-12-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication_types/</loc>
+    <lastmod>2020-12-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/</loc>
+    <lastmod>2020-12-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/fbb-2020/</loc>
+    <lastmod>2020-12-31T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/as-2020/</loc>
+    <lastmod>2020-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/mubo-2020/</loc>
+    <lastmod>2020-10-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/estimating-the-center-of-mass-and-the-angular-momentum-derivative-for-legged-locomotion/</loc>
+    <lastmod>2019-11-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-11-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/recursive-estimation-of-the-human-bodys-center-of-mass-and-angular-momentum-derivative/</loc>
+    <lastmod>2019-08-15T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-03-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/iros-2019/</loc>
+    <lastmod>2019-03-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-03-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-03-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-03-06T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication-type/1/</loc>
+    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/cmbbe-2019/</loc>
+    <lastmod>2019-03-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/wsb-2019/</loc>
+    <lastmod>2019-02-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2019-02-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -25,6 +185,76 @@
   <url>
     <loc>https://fbailly.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/motion-analysis-and-state-estimation-of-anthropomorphic-systems/</loc>
+    <lastmod>2018-10-08T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication-type/0/</loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/srep-2018/</loc>
+    <lastmod>2018-09-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/biorob-2018/</loc>
+    <lastmod>2018-08-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/a-mechanical-descriptor-of-human-locomotion-and-its-application-to-multi-contact-walking-in-humanoids/</loc>
+    <lastmod>2018-08-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication-type/3/</loc>
+    <lastmod>2018-08-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/thesis-2018/</loc>
+    <lastmod>2018-08-10T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/should-mobile-robots-have-a-head/</loc>
+    <lastmod>2018-07-18T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/living-machines-2018/</loc>
+    <lastmod>2018-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2018-07-06T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/regulation-of-the-distance-between-the-center-of-mass-and-the-minimum-moment-axis-for-stabilized-locomotion-in-humans/</loc>
+    <lastmod>2017-07-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/publication/cmbbe-2017/</loc>
+    <lastmod>2017-03-06T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -68,11 +298,6 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fbailly.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -98,28 +323,8 @@
   </url>
   
   <url>
-    <loc>https://fbailly.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fbailly.github.io/publication/example/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fbailly.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fbailly.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://fbailly.github.io/publication/esb-2016/</loc>
+    <lastmod>2016-03-06T00:00:00+01:00</lastmod>
   </url>
   
 </urlset>
