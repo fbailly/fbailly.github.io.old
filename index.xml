@@ -51,7 +51,7 @@
       <guid>https://fbailly.github.io/post/icra2021/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Estimating the centroidal dynamics of legged robots is an essential aspect in the context of multi-contact locomotion of legged robots.
-In this paper, we formulate the estimation of centroidal dynamics as a \hl{maximum a posteriori} problem and we use a differential dynamic programming approach for solving it.
+In this paper, we formulate the estimation of centroidal dynamics as a maximum a posteriori problem and we use a differential dynamic programming approach for solving it.
 The soundness of the proposed approach is first validated on a simulated humanoid robot, where ground truth data is available, enabling error analysis, and then compared to other alternatives of the state of the art, namely an extend Kalman filter and a recursive complementary filter.
 The results demonstrate that, compared to other approaches, the proposed method reduces the  estimation error on the centroidal state in addition to ensuring the dynamics consistency of the state trajectory.
 Finally, the effectiveness of the proposed method is illustrated on real measurements, obtained from walking experiments with the HRP-2 humanoid robot.&lt;/p&gt;
@@ -77,7 +77,7 @@ Finally, the effectiveness of the proposed method is illustrated on real measure
     </item>
     
     <item>
-      <title>Newly published article !</title>
+      <title>New paper in Frontiers in Bioengineering and Biotechnology!</title>
       <link>https://fbailly.github.io/post/fbb_2021/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/post/fbb_2021/</guid>
