@@ -5,12 +5,21 @@
     <link>https://fbailly.github.io/</link>
       <atom:link href="https://fbailly.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>François Bailly&#39;s Academic Page</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0200</lastBuildDate>
     <image>
       <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>François Bailly&#39;s Academic Page</title>
       <link>https://fbailly.github.io/</link>
     </image>
+    
+    <item>
+      <title>Biomécanique : Du Muscle au Mouvement des Segments 
+ UE Neuroprothèse, Université de Montpellier</title>
+      <link>https://fbailly.github.io/teaching/ue_neuro_2021/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0200</pubDate>
+      <guid>https://fbailly.github.io/teaching/ue_neuro_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Upcoming] Workshop -- Bioptim, a Python Interface for Musculoskeletal Optimal Control in Biomechanics</title>
