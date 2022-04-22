@@ -5,12 +5,20 @@
     <link>https://fbailly.github.io/publication/</link>
       <atom:link href="https://fbailly.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://fbailly.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Optimal forward twisting pike somersault without self-collision</title>
+      <link>https://fbailly.github.io/publication/sportsbiomech_eve/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0100</pubDate>
+      <guid>https://fbailly.github.io/publication/sportsbiomech_eve/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal Estimation of the Centroidal Dynamics of Legged Robots</title>
