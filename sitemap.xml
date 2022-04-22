@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://fbailly.github.io/talk/upcoming-workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</loc>
-    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc></loc>
     <lastmod>2021-09-07T00:00:00+02:00</lastmod>
   </url>
@@ -83,22 +78,32 @@
   </url>
   
   <url>
-    <loc>https://fbailly.github.io/talk/upcoming-optimal-estimation-of-the-centroidal-dynamics-of-legged-robots/</loc>
+    <loc>https://fbailly.github.io/talk/workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</loc>
+    <lastmod>2021-09-07T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/optimal-estimation-of-the-centroidal-dynamics-of-legged-robots/</loc>
     <lastmod>2021-05-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fbailly.github.io/talk/upcoming-full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</loc>
+    <loc></loc>
     <lastmod>2021-05-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fbailly.github.io/talk/upcoming-optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</loc>
+    <loc></loc>
     <lastmod>2021-05-25T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://fbailly.github.io/talk/upcoming-workshop-software-tools-for-biomechanics/</loc>
+    <loc>https://fbailly.github.io/talk/full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</loc>
+    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fbailly.github.io/talk/optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</loc>
     <lastmod>2021-05-25T00:00:00+02:00</lastmod>
   </url>
   
@@ -113,12 +118,7 @@
   </url>
   
   <url>
-    <loc></loc>
-    <lastmod>2021-05-25T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
+    <loc>https://fbailly.github.io/talk/workshop-software-tools-for-biomechanics/</loc>
     <lastmod>2021-05-25T00:00:00+02:00</lastmod>
   </url>
   
