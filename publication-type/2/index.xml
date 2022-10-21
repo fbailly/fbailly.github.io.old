@@ -5,17 +5,26 @@
     <link>https://fbailly.github.io/publication-type/2/</link>
       <atom:link href="https://fbailly.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://fbailly.github.io/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Bioptim, a python framework for musculoskeletal optimal control in biomechanics. 
+ Atelier du congrès de la SB 2022, Monastir, Tunisie.</title>
+      <link>https://fbailly.github.io/teaching/workshop_sb_22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://fbailly.github.io/teaching/workshop_sb_22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal forward twisting pike somersault without self-collision</title>
       <link>https://fbailly.github.io/publication/sportsbiomech_eve/</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/sportsbiomech_eve/</guid>
       <description></description>
     </item>
@@ -24,7 +33,7 @@
       <title>Biomécanique : Du Muscle au Mouvement des Segments. 
  UE Neuroprothèse, Université de Montpellier</title>
       <link>https://fbailly.github.io/teaching/ue_neuro_2021/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/teaching/ue_neuro_2021/</guid>
       <description></description>
     </item>
@@ -32,7 +41,7 @@
     <item>
       <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
       <link>https://fbailly.github.io/publication/bioptim/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/bioptim/</guid>
       <description></description>
     </item>
@@ -40,7 +49,7 @@
     <item>
       <title>Real-Time and Dynamically Consistent Estimation of Muscle Forces Using a Moving Horizon EMG-Marker Tracking Algorithm - Application to Upper Limb Biomechanics</title>
       <link>https://fbailly.github.io/publication/fbb-2021/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/fbb-2021/</guid>
       <description></description>
     </item>
@@ -48,7 +57,7 @@
     <item>
       <title>Optimal Control as a Tool for Innovation in Aerial Twisting on a Trampoline</title>
       <link>https://fbailly.github.io/publication/as-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/as-2020/</guid>
       <description></description>
     </item>
@@ -56,7 +65,7 @@
     <item>
       <title>Optimal 3D arm strategies for maximizing twist rotation during somersault of a rigid-body model</title>
       <link>https://fbailly.github.io/publication/mubo-2020/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/mubo-2020/</guid>
       <description></description>
     </item>
@@ -64,7 +73,7 @@
     <item>
       <title>Estimating the center of mass and the angular momentum derivative for legged locomotion - A recursive approach</title>
       <link>https://fbailly.github.io/publication/iros-2019/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/iros-2019/</guid>
       <description></description>
     </item>
@@ -72,7 +81,7 @@
     <item>
       <title>Angular momentum regulation strategies for highly dynamic landing in Parkour</title>
       <link>https://fbailly.github.io/publication/cmbbe-2017/</link>
-      <pubDate>Mon, 06 Mar 2017 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/cmbbe-2017/</guid>
       <description></description>
     </item>

@@ -5,9 +5,9 @@
     <link>https://fbailly.github.io/event/</link>
       <atom:link href="https://fbailly.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://fbailly.github.io/event/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Workshop -- Bioptim, a Python Interface for Musculoskeletal Optimal Control in Biomechanics</title>
       <link>https://fbailly.github.io/talk/workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Optimal Estimation of the Centroidal Dynamics of Legged Robots</title>
       <link>https://fbailly.github.io/talk/optimal-estimation-of-the-centroidal-dynamics-of-legged-robots/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/optimal-estimation-of-the-centroidal-dynamics-of-legged-robots/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Full-Body Dynamic Optimization of Complex Aerial Movements, with Gravitational Parameter Identification</title>
       <link>https://fbailly.github.io/talk/full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Optimal Control to Innovate in Aerial Twisting on Trampoline</title>
       <link>https://fbailly.github.io/talk/optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Workshop -- Software tools for biomechanics</title>
       <link>https://fbailly.github.io/talk/workshop-software-tools-for-biomechanics/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/workshop-software-tools-for-biomechanics/</guid>
       <description></description>
     </item>
@@ -55,7 +55,7 @@
     <item>
       <title>Estimating the center of mass and the angular momentum derivative for legged locomotion</title>
       <link>https://fbailly.github.io/talk/estimating-the-center-of-mass-and-the-angular-momentum-derivative-for-legged-locomotion/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/estimating-the-center-of-mass-and-the-angular-momentum-derivative-for-legged-locomotion/</guid>
       <description></description>
     </item>
@@ -63,7 +63,7 @@
     <item>
       <title>Recursive Estimation of the Human Body&#39;s Center of Mass and Angular Momentum Derivative</title>
       <link>https://fbailly.github.io/talk/recursive-estimation-of-the-human-bodys-center-of-mass-and-angular-momentum-derivative/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/recursive-estimation-of-the-human-bodys-center-of-mass-and-angular-momentum-derivative/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Motion Analysis and State Estimation of Anthropomorphic Systems</title>
       <link>https://fbailly.github.io/talk/motion-analysis-and-state-estimation-of-anthropomorphic-systems/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/motion-analysis-and-state-estimation-of-anthropomorphic-systems/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>A mechanical descriptor of human locomotion and its application to multi-contact walking in humanoids</title>
       <link>https://fbailly.github.io/talk/a-mechanical-descriptor-of-human-locomotion-and-its-application-to-multi-contact-walking-in-humanoids/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/a-mechanical-descriptor-of-human-locomotion-and-its-application-to-multi-contact-walking-in-humanoids/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Should mobile robots have a head ?</title>
       <link>https://fbailly.github.io/talk/should-mobile-robots-have-a-head/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/should-mobile-robots-have-a-head/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>Regulation of the distance between the center of mass and the minimum moment axis for stabilized locomotion in humans</title>
       <link>https://fbailly.github.io/talk/regulation-of-the-distance-between-the-center-of-mass-and-the-minimum-moment-axis-for-stabilized-locomotion-in-humans/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/regulation-of-the-distance-between-the-center-of-mass-and-the-minimum-moment-axis-for-stabilized-locomotion-in-humans/</guid>
       <description></description>
     </item>

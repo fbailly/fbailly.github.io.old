@@ -5,17 +5,26 @@
     <link>https://fbailly.github.io/</link>
       <atom:link href="https://fbailly.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>François Bailly&#39;s Academic Page</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>François Bailly&#39;s Academic Page</title>
       <link>https://fbailly.github.io/</link>
     </image>
     
     <item>
+      <title>Bioptim, a python framework for musculoskeletal optimal control in biomechanics. 
+ Atelier du congrès de la SB 2022, Monastir, Tunisie.</title>
+      <link>https://fbailly.github.io/teaching/workshop_sb_22/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://fbailly.github.io/teaching/workshop_sb_22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal forward twisting pike somersault without self-collision</title>
       <link>https://fbailly.github.io/publication/sportsbiomech_eve/</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/sportsbiomech_eve/</guid>
       <description></description>
     </item>
@@ -34,7 +43,7 @@
       <title>Biomécanique : Du Muscle au Mouvement des Segments. 
  UE Neuroprothèse, Université de Montpellier</title>
       <link>https://fbailly.github.io/teaching/ue_neuro_2021/</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/teaching/ue_neuro_2021/</guid>
       <description></description>
     </item>
@@ -42,7 +51,7 @@
     <item>
       <title>Workshop -- Bioptim, a Python Interface for Musculoskeletal Optimal Control in Biomechanics</title>
       <link>https://fbailly.github.io/talk/workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/workshop-bioptim-a-python-interface-for-musculoskeletal-optimal-control-in-biomechanics/</guid>
       <description></description>
     </item>
@@ -50,7 +59,7 @@
     <item>
       <title>Optimal Estimation of the Centroidal Dynamics of Legged Robots</title>
       <link>https://fbailly.github.io/talk/optimal-estimation-of-the-centroidal-dynamics-of-legged-robots/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/optimal-estimation-of-the-centroidal-dynamics-of-legged-robots/</guid>
       <description></description>
     </item>
@@ -58,7 +67,7 @@
     <item>
       <title>Full-Body Dynamic Optimization of Complex Aerial Movements, with Gravitational Parameter Identification</title>
       <link>https://fbailly.github.io/talk/full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/full-body-dynamic-optimization-of-complex-aerial-movements-with-gravitational-parameter-identification/</guid>
       <description></description>
     </item>
@@ -66,7 +75,7 @@
     <item>
       <title>Optimal Control to Innovate in Aerial Twisting on Trampoline</title>
       <link>https://fbailly.github.io/talk/optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/optimal-control-to-innovate-in-aerial-twisting-on-trampoline/</guid>
       <description></description>
     </item>
@@ -74,7 +83,7 @@
     <item>
       <title>Workshop -- Software tools for biomechanics</title>
       <link>https://fbailly.github.io/talk/workshop-software-tools-for-biomechanics/</link>
-      <pubDate>Tue, 25 May 2021 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/workshop-software-tools-for-biomechanics/</guid>
       <description></description>
     </item>
@@ -82,7 +91,7 @@
     <item>
       <title>Optimal Estimation of the Centroidal Dynamics of Legged Robots</title>
       <link>https://fbailly.github.io/publication/icra2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/icra2021/</guid>
       <description></description>
     </item>
@@ -102,6 +111,14 @@ Finally, the effectiveness of the proposed method is illustrated on real measure
     </item>
     
     <item>
+      <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
+      <link>https://fbailly.github.io/publication/bioptim/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://fbailly.github.io/publication/bioptim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Newly released software!</title>
       <link>https://fbailly.github.io/post/bioptim/</link>
       <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
@@ -109,14 +126,6 @@ Finally, the effectiveness of the proposed method is illustrated on real measure
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Musculoskeletal simulations are useful in biomechanics to investigate the causes of movement disorder, to estimate non-measurable physiological quantities or to study the optimality of human movement. We introduce bioptim, an easy-to-use Python framework for biomechanical optimal control, handling musculoskeletal models. Relying on algorithmic differentiation and the multiple shooting formulation, bioptim interfaces nonlinear solvers to quickly provide dynamically consistent optimal solutions. The software is both computationally efficient (C++ core) and easily customizable, thanks to its Python interface. It allows to quickly define a variety of biomechanical problems such as motion tracking/prediction, muscle-driven simulations, parameters optimization, multiphase problems, etc. It is also intended for real-time applications such as moving horizon estimation and model predictive control. Six contrasting examples are presented, comprising various models, dynamics, objective functions and constraints. They include data-driven simulations (i.e., a multiphase muscle driven gait cycle and an upper-limb real-time moving horizon estimation of muscle forces) and predictive simulations (i.e., a muscle-driven pointing task, a twisting somersault with a quaternion-based model, a position controller using external forces, and a multiphase torque-driven maximum-height jump motion).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
-      <link>https://fbailly.github.io/publication/bioptim/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0100</pubDate>
-      <guid>https://fbailly.github.io/publication/bioptim/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -147,7 +156,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Real-Time and Dynamically Consistent Estimation of Muscle Forces Using a Moving Horizon EMG-Marker Tracking Algorithm - Application to Upper Limb Biomechanics</title>
       <link>https://fbailly.github.io/publication/fbb-2021/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/fbb-2021/</guid>
       <description></description>
     </item>
@@ -155,7 +164,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Optimal Control as a Tool for Innovation in Aerial Twisting on a Trampoline</title>
       <link>https://fbailly.github.io/publication/as-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/as-2020/</guid>
       <description></description>
     </item>
@@ -163,7 +172,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Optimal 3D arm strategies for maximizing twist rotation during somersault of a rigid-body model</title>
       <link>https://fbailly.github.io/publication/mubo-2020/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/mubo-2020/</guid>
       <description></description>
     </item>
@@ -171,7 +180,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Estimating the center of mass and the angular momentum derivative for legged locomotion</title>
       <link>https://fbailly.github.io/talk/estimating-the-center-of-mass-and-the-angular-momentum-derivative-for-legged-locomotion/</link>
-      <pubDate>Tue, 05 Nov 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/estimating-the-center-of-mass-and-the-angular-momentum-derivative-for-legged-locomotion/</guid>
       <description></description>
     </item>
@@ -179,7 +188,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Recursive Estimation of the Human Body&#39;s Center of Mass and Angular Momentum Derivative</title>
       <link>https://fbailly.github.io/talk/recursive-estimation-of-the-human-bodys-center-of-mass-and-angular-momentum-derivative/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/recursive-estimation-of-the-human-bodys-center-of-mass-and-angular-momentum-derivative/</guid>
       <description></description>
     </item>
@@ -187,7 +196,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Estimating the center of mass and the angular momentum derivative for legged locomotion - A recursive approach</title>
       <link>https://fbailly.github.io/publication/iros-2019/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/iros-2019/</guid>
       <description></description>
     </item>
@@ -195,7 +204,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Recursive estimation of the human body&#39;s center of mass and angular momentum derivative</title>
       <link>https://fbailly.github.io/publication/cmbbe-2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/cmbbe-2019/</guid>
       <description></description>
     </item>
@@ -203,7 +212,7 @@ To conclude, the presented MHE implementation proved to be promising for real-ti
     <item>
       <title>Assessment of a Mechanical Descriptor of the Locomotion in a Population at Risk of Fall: a Preliminary Study</title>
       <link>https://fbailly.github.io/publication/esb-2019/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/esb-2019/</guid>
       <description></description>
     </item>
@@ -259,15 +268,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -340,7 +349,7 @@ Three
     <item>
       <title>Motion Analysis and State Estimation of Anthropomorphic Systems</title>
       <link>https://fbailly.github.io/talk/motion-analysis-and-state-estimation-of-anthropomorphic-systems/</link>
-      <pubDate>Mon, 08 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/motion-analysis-and-state-estimation-of-anthropomorphic-systems/</guid>
       <description></description>
     </item>
@@ -348,7 +357,7 @@ Three
     <item>
       <title>On the coordination of highly dynamic human movements: an extension of the Uncontrolled Manifold approach applied to precision jump in parkour</title>
       <link>https://fbailly.github.io/publication/srep-2018/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/srep-2018/</guid>
       <description></description>
     </item>
@@ -356,7 +365,7 @@ Three
     <item>
       <title>A mechanical descriptor of human locomotion and an application to multi-contact walking in humanoids</title>
       <link>https://fbailly.github.io/publication/biorob-2018/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/biorob-2018/</guid>
       <description></description>
     </item>
@@ -364,7 +373,7 @@ Three
     <item>
       <title>A mechanical descriptor of human locomotion and its application to multi-contact walking in humanoids</title>
       <link>https://fbailly.github.io/talk/a-mechanical-descriptor-of-human-locomotion-and-its-application-to-multi-contact-walking-in-humanoids/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/a-mechanical-descriptor-of-human-locomotion-and-its-application-to-multi-contact-walking-in-humanoids/</guid>
       <description></description>
     </item>
@@ -372,7 +381,7 @@ Three
     <item>
       <title>Descriptive and explanatory tools for human movement and state estimation in humanoid robotics </title>
       <link>https://fbailly.github.io/publication/thesis-2018/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/thesis-2018/</guid>
       <description></description>
     </item>
@@ -380,7 +389,7 @@ Three
     <item>
       <title>Should mobile robots have a head ?</title>
       <link>https://fbailly.github.io/talk/should-mobile-robots-have-a-head/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/should-mobile-robots-have-a-head/</guid>
       <description></description>
     </item>
@@ -388,7 +397,7 @@ Three
     <item>
       <title>Should robots have a head ?- A rationale based on behavior, automatic control and signal processing-</title>
       <link>https://fbailly.github.io/publication/living-machines-2018/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/living-machines-2018/</guid>
       <description></description>
     </item>
@@ -396,7 +405,7 @@ Three
     <item>
       <title>Regulation of the distance between the center of mass and the minimum moment axis for stabilized locomotion in humans</title>
       <link>https://fbailly.github.io/talk/regulation-of-the-distance-between-the-center-of-mass-and-the-minimum-moment-axis-for-stabilized-locomotion-in-humans/</link>
-      <pubDate>Thu, 20 Jul 2017 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/talk/regulation-of-the-distance-between-the-center-of-mass-and-the-minimum-moment-axis-for-stabilized-locomotion-in-humans/</guid>
       <description></description>
     </item>
@@ -404,7 +413,7 @@ Three
     <item>
       <title>Angular momentum regulation strategies for highly dynamic landing in Parkour</title>
       <link>https://fbailly.github.io/publication/cmbbe-2017/</link>
-      <pubDate>Mon, 06 Mar 2017 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/cmbbe-2017/</guid>
       <description></description>
     </item>
@@ -425,7 +434,7 @@ Three
     <item>
       <title>Humans tend to minimize the distance between the center of mass and the minimum moment axis during locomotion</title>
       <link>https://fbailly.github.io/publication/esb-2016/</link>
-      <pubDate>Sun, 06 Mar 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/esb-2016/</guid>
       <description></description>
     </item>
