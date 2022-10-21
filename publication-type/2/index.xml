@@ -22,6 +22,14 @@
     </item>
     
     <item>
+      <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
+      <link>https://fbailly.github.io/publication/bioptim/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fbailly.github.io/publication/bioptim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimal forward twisting pike somersault without self-collision</title>
       <link>https://fbailly.github.io/publication/sportsbiomech_eve/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
@@ -35,14 +43,6 @@
       <link>https://fbailly.github.io/teaching/ue_neuro_2021/</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/teaching/ue_neuro_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
-      <link>https://fbailly.github.io/publication/bioptim/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://fbailly.github.io/publication/bioptim/</guid>
       <description></description>
     </item>
     

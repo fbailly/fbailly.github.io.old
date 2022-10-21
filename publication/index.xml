@@ -5,12 +5,20 @@
     <link>https://fbailly.github.io/publication/</link>
       <atom:link href="https://fbailly.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://fbailly.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
+      <link>https://fbailly.github.io/publication/bioptim/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fbailly.github.io/publication/bioptim/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal forward twisting pike somersault without self-collision</title>
@@ -25,14 +33,6 @@
       <link>https://fbailly.github.io/publication/icra2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://fbailly.github.io/publication/icra2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bioptim, a Python framework for Musculoskeletal Optimal Control in Biomechanics</title>
-      <link>https://fbailly.github.io/publication/bioptim/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://fbailly.github.io/publication/bioptim/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,22 @@
     <link>https://fbailly.github.io/tag/academic/</link>
       <atom:link href="https://fbailly.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fbailly.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://fbailly.github.io/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Newly accepted paper in IEEE Transactions on Systems, Man, and Cybernetics - Systems !</title>
+      <link>https://fbailly.github.io/post/bioptim_paper/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://fbailly.github.io/post/bioptim_paper/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Musculoskeletal simulations are useful in biomechanics to investigate the causes of movement disorders, estimate nonmeasurable physiological quantities, or study the optimality of human movement. We introduce Bioptim, an easy-to-use Python framework for biomechanical optimal control based on both direct multiple shooting and direct collocation, handling musculoskeletal models. Relying on algorithmic differentiation, Bioptim is fast and it interfaces several nonlinear solvers. The software is both computationally efficient (C ++ core) and easily customizable, thanks to its Python interface. It allows to quickly define a variety of biomechanical problems, such as motion tracking/prediction, muscle-driven simulations, parameters optimization, multiphase problems, etc. It is also intended for real-time applications, such as moving horizon estimation and model predictive control.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Newly accepted paper in Sports Biomechanics</title>
